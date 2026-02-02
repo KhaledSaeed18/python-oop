@@ -1,6 +1,6 @@
-# Python Essential Training – Practice Repository
+# Python Object Oriented Programming (OOP) – Practice Repository
 
-This repository contains my hands-on practice, exercises, and notes while following the [Python Essential Training – LinkedIn Learning](https://www.linkedin.com/learning/python-essential-training-18764650) course.
+This repository contains my hands-on practice, exercises, and notes while following the [Python Object Oriented Programming (OOP) – LinkedIn Learning](https://www.linkedin.com/learning/python-object-oriented-programming-22888296) course.
 
 The goal of this repo is learning and practicing.
 
